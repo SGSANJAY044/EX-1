@@ -1,0 +1,25 @@
+#hi{
+
+    text-decoration: none;
+   
+    height: 30px;
+    text-align: center;
+    padding-top:15px;
+
+}
+#hi>a{
+    
+    text-decoration: none;
+    padding: 15px;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+#hello{
+   
+    height: 25px;
+}
+#hello>a{
+    
+    text-decoration: none;
+    padding: 5px;
+}
